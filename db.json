@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "amit",
+      "username": "AmitYadav",
+      "email": "amityadav@codezilla.com",
+      "phone": "9874563210",
+      "id": 11
+    },
+    {
+      "name": "shivani",
+      "username": "shivani@",
+      "email": "shivani@gmail.com",
+      "phone": "9874563210",
+      "id": 12
+    },
+    {
+      "name": "bhupen",
+      "username": "Bhupen",
+      "email": "bupen@gmail.com",
+      "phone": "9874563285",
+      "id": 13
+    },
+    {
+      "name": "vivek",
+      "username": "Vivek",
+      "email": "vivek@gmail.com",
+      "phone": "7879714587",
+      "id": 14
+    },
+    {
+      "name": "Raveena",
+      "username": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": "785469885",
+      "id": 16
+    },
+    {
+      "name": "Ankit",
+      "username": "AnkitYadav",
+      "email": "ankit@gmail.com",
+      "phone": "8754219586",
+      "id": 17
+    },
+    {
+      "name": "zakir husain",
+      "username": "Zakir",
+      "email": "zakir@gmail.com",
+      "phone": "9856321458",
+      "id": 18
+    },
+    {
+      "name": "Hariom",
+      "username": "hari",
+      "email": "hariom@gmail.com",
+      "phone": "8563214589",
+      "id": 19
+    },
+    {
+      "name": "kapil",
+      "username": "Kapil",
+      "email": "kapil@gmail.co",
+      "phone": "8569742135",
+      "id": 20
+    },
+    {
+      "name": "ganesh",
+      "username": "Ganesh",
+      "email": "ganesh@gmail.com",
+      "phone": "9875421564",
+      "id": 21
+    },
+    {
+      "name": "Abhishek",
+      "username": "Abhishek",
+      "email": "abhi@gmail.com",
+      "phone": "9874521564",
+      "id": 22
+    },
+    {
+      "name": "PRAVEEN",
+      "username": "Praveen",
+      "email": "praveen@gmail.com",
+      "phone": "9856365892",
+      "id": 23
+    }
+  ]
+}
